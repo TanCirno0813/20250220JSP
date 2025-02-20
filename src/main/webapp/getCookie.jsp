@@ -14,13 +14,11 @@
 		for (Cookie cookie : cookies){
 			out.println("쿠키 이름 : " + cookie.getName()+"<br>");
 			out.println("쿠키 값 : "+ cookie.getValue()+"<br><br>");
-			
 		}
 		
 	}else {
 		out.println("저장된 쿠키가 없습니다.");
 	}
-	
 	
 %>
 <p><a href ="setCookie.jsp">쿠키 생성 페이지로 이동</a></p>

@@ -18,4 +18,4 @@ response.addCookie(cookie2);
 <h2>쿠키가 생성 됨</h2>
 <p>쿠키 확인은<a href ="getCookie.jsp">여기</a>를 클릭하세요.</p>
 </body>
-</html>
+</html>		
